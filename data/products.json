@@ -6,14 +6,10 @@
       "description": "Ergonomic wireless mouse with customizable buttons",
       "price": 29.99,
       "category": "Electronics",
-      "stock": {
-        "available": 200,
-        "reserved": 10,
-        "location": "Warehouse A"
-      },
+      "stock": { "available": 200, "reserved": 10, "location": "New home" },
       "tags": ["wireless", "mouse", "electronics", "ergonomic"],
       "rating": 4.5,
-      "deleted": false
+      "deleted": true
     },
     {
       "id": "2",
@@ -21,11 +17,7 @@
       "description": "Mechanical keyboard with RGB backlight",
       "price": 79.99,
       "category": "Electronics",
-      "stock": {
-        "available": 150,
-        "reserved": 20,
-        "location": "Warehouse B"
-      },
+      "stock": { "available": 150, "reserved": 20, "location": "Warehouse B" },
       "tags": ["keyboard", "gaming", "electronics", "mechanical"],
       "rating": 4.2,
       "deleted": false
@@ -36,11 +28,7 @@
       "description": "Latest generation smartphone with 5G connectivity",
       "price": 999.99,
       "category": "Electronics",
-      "stock": {
-        "available": 50,
-        "reserved": 5,
-        "location": "Warehouse C"
-      },
+      "stock": { "available": 50, "reserved": 5, "location": "Warehouse C" },
       "tags": ["smartphone", "mobile", "5G", "electronics"],
       "rating": 4.7,
       "deleted": false
@@ -51,11 +39,7 @@
       "description": "High-performance laptop with 16GB RAM and 512GB SSD",
       "price": 1299.99,
       "category": "Electronics",
-      "stock": {
-        "available": 30,
-        "reserved": 2,
-        "location": "Warehouse D"
-      },
+      "stock": { "available": 30, "reserved": 2, "location": "Warehouse D" },
       "tags": ["laptop", "computer", "electronics", "portable"],
       "rating": 4.8,
       "deleted": false
@@ -66,11 +50,7 @@
       "description": "Portable Bluetooth speaker with high-quality sound",
       "price": 49.99,
       "category": "Electronics",
-      "stock": {
-        "available": 100,
-        "reserved": 15,
-        "location": "Warehouse E"
-      },
+      "stock": { "available": 100, "reserved": 15, "location": "Warehouse E" },
       "tags": ["bluetooth", "speaker", "electronics", "portable"],
       "rating": 4.3,
       "deleted": false
@@ -81,11 +61,7 @@
       "description": "27-inch 4K UHD monitor with HDR support",
       "price": 399.99,
       "category": "Electronics",
-      "stock": {
-        "available": 25,
-        "reserved": 5,
-        "location": "Warehouse F"
-      },
+      "stock": { "available": 25, "reserved": 5, "location": "Warehouse F" },
       "tags": ["monitor", "4K", "electronics", "HDR"],
       "rating": 4.6,
       "deleted": false
@@ -96,11 +72,7 @@
       "description": "2TB external hard drive with USB 3.0 interface",
       "price": 89.99,
       "category": "Electronics",
-      "stock": {
-        "available": 120,
-        "reserved": 20,
-        "location": "Warehouse G"
-      },
+      "stock": { "available": 120, "reserved": 20, "location": "Warehouse G" },
       "tags": ["hard drive", "storage", "electronics", "USB 3.0"],
       "rating": 4.4,
       "deleted": false
@@ -111,11 +83,7 @@
       "description": "Water-resistant smartwatch with fitness tracking",
       "price": 199.99,
       "category": "Electronics",
-      "stock": {
-        "available": 80,
-        "reserved": 10,
-        "location": "Warehouse H"
-      },
+      "stock": { "available": 80, "reserved": 10, "location": "Warehouse H" },
       "tags": ["smartwatch", "wearable", "electronics", "fitness"],
       "rating": 4.5,
       "deleted": false
@@ -126,11 +94,7 @@
       "description": "Over-ear noise-canceling headphones with Bluetooth",
       "price": 299.99,
       "category": "Electronics",
-      "stock": {
-        "available": 60,
-        "reserved": 5,
-        "location": "Warehouse I"
-      },
+      "stock": { "available": 60, "reserved": 5, "location": "Warehouse I" },
       "tags": ["headphones", "noise-canceling", "electronics", "bluetooth"],
       "rating": 4.7,
       "deleted": false
@@ -141,11 +105,7 @@
       "description": "55-inch 4K UHD Smart TV with built-in streaming apps",
       "price": 599.99,
       "category": "Electronics",
-      "stock": {
-        "available": 20,
-        "reserved": 3,
-        "location": "Warehouse J"
-      },
+      "stock": { "available": 20, "reserved": 3, "location": "Warehouse J" },
       "tags": ["TV", "smart", "electronics", "4K"],
       "rating": 4.6,
       "deleted": false
@@ -156,11 +116,7 @@
       "description": "10-inch tablet with high-resolution display and stylus support",
       "price": 399.99,
       "category": "Electronics",
-      "stock": {
-        "available": 40,
-        "reserved": 8,
-        "location": "Warehouse K"
-      },
+      "stock": { "available": 40, "reserved": 8, "location": "Warehouse K" },
       "tags": ["tablet", "touchscreen", "electronics", "stylus"],
       "rating": 4.4,
       "deleted": false
@@ -171,11 +127,7 @@
       "description": "Fitness tracker with heart rate monitor and GPS",
       "price": 99.99,
       "category": "Electronics",
-      "stock": {
-        "available": 70,
-        "reserved": 10,
-        "location": "Warehouse L"
-      },
+      "stock": { "available": 70, "reserved": 10, "location": "Warehouse L" },
       "tags": ["fitness", "tracker", "electronics", "GPS"],
       "rating": 4.5,
       "deleted": false
@@ -186,11 +138,7 @@
       "description": "4K action camera with waterproof case",
       "price": 249.99,
       "category": "Electronics",
-      "stock": {
-        "available": 50,
-        "reserved": 5,
-        "location": "Warehouse M"
-      },
+      "stock": { "available": 50, "reserved": 5, "location": "Warehouse M" },
       "tags": ["camera", "action", "electronics", "waterproof"],
       "rating": 4.6,
       "deleted": false
@@ -201,11 +149,7 @@
       "description": "Next-gen gaming console with 1TB storage",
       "price": 499.99,
       "category": "Electronics",
-      "stock": {
-        "available": 25,
-        "reserved": 2,
-        "location": "Warehouse N"
-      },
+      "stock": { "available": 25, "reserved": 2, "location": "Warehouse N" },
       "tags": ["gaming", "console", "electronics", "1TB"],
       "rating": 4.8,
       "deleted": false
@@ -216,11 +160,7 @@
       "description": "Fast wireless charger compatible with multiple devices",
       "price": 39.99,
       "category": "Electronics",
-      "stock": {
-        "available": 100,
-        "reserved": 15,
-        "location": "Warehouse O"
-      },
+      "stock": { "available": 100, "reserved": 15, "location": "Warehouse O" },
       "tags": ["wireless", "charger", "electronics", "fast charging"],
       "rating": 4.3,
       "deleted": false
@@ -231,11 +171,7 @@
       "description": "Electric toothbrush with multiple brushing modes",
       "price": 49.99,
       "category": "Health & Personal Care",
-      "stock": {
-        "available": 150,
-        "reserved": 20,
-        "location": "Warehouse P"
-      },
+      "stock": { "available": 150, "reserved": 20, "location": "Warehouse P" },
       "tags": ["toothbrush", "electric", "health", "personal care"],
       "rating": 4.5,
       "deleted": false
@@ -246,11 +182,7 @@
       "description": "HEPA air purifier with smart sensors",
       "price": 199.99,
       "category": "Home Appliances",
-      "stock": {
-        "available": 60,
-        "reserved": 8,
-        "location": "Warehouse Q"
-      },
+      "stock": { "available": 60, "reserved": 8, "location": "Warehouse Q" },
       "tags": ["air purifier", "home", "appliances", "HEPA"],
       "rating": 4.7,
       "deleted": false
@@ -261,11 +193,7 @@
       "description": "Smart robot vacuum cleaner with app control",
       "price": 349.99,
       "category": "Home Appliances",
-      "stock": {
-        "available": 40,
-        "reserved": 5,
-        "location": "Warehouse R"
-      },
+      "stock": { "available": 40, "reserved": 5, "location": "Warehouse R" },
       "tags": ["vacuum", "robot", "home", "appliances"],
       "rating": 4.6,
       "deleted": false
@@ -276,11 +204,7 @@
       "description": "Programmable coffee maker with built-in grinder",
       "price": 149.99,
       "category": "Home Appliances",
-      "stock": {
-        "available": 80,
-        "reserved": 10,
-        "location": "Warehouse S"
-      },
+      "stock": { "available": 80, "reserved": 10, "location": "Warehouse S" },
       "tags": ["coffee maker", "home", "appliances", "grinder"],
       "rating": 4.5,
       "deleted": false
@@ -291,11 +215,7 @@
       "description": "Compact air fryer with digital controls",
       "price": 99.99,
       "category": "Home Appliances",
-      "stock": {
-        "available": 70,
-        "reserved": 10,
-        "location": "Warehouse T"
-      },
+      "stock": { "available": 70, "reserved": 10, "location": "Warehouse T" },
       "tags": ["air fryer", "home", "appliances", "compact"],
       "rating": 4.4,
       "deleted": false
@@ -306,11 +226,7 @@
       "description": "Set of 4 smart light bulbs with color control",
       "price": 69.99,
       "category": "Home Automation",
-      "stock": {
-        "available": 100,
-        "reserved": 15,
-        "location": "Warehouse U"
-      },
+      "stock": { "available": 100, "reserved": 15, "location": "Warehouse U" },
       "tags": ["light bulbs", "smart", "home", "automation"],
       "rating": 4.6,
       "deleted": false
@@ -321,11 +237,7 @@
       "description": "Energy-efficient smart thermostat with Wi-Fi",
       "price": 199.99,
       "category": "Home Automation",
-      "stock": {
-        "available": 50,
-        "reserved": 5,
-        "location": "Warehouse V"
-      },
+      "stock": { "available": 50, "reserved": 5, "location": "Warehouse V" },
       "tags": ["thermostat", "smart", "home", "automation"],
       "rating": 4.7,
       "deleted": false
@@ -336,11 +248,7 @@
       "description": "HD video doorbell with motion detection",
       "price": 149.99,
       "category": "Home Automation",
-      "stock": {
-        "available": 60,
-        "reserved": 8,
-        "location": "Warehouse W"
-      },
+      "stock": { "available": 60, "reserved": 8, "location": "Warehouse W" },
       "tags": ["doorbell", "video", "home", "automation"],
       "rating": 4.5,
       "deleted": false
@@ -351,11 +259,7 @@
       "description": "Keyless smart lock with fingerprint recognition",
       "price": 249.99,
       "category": "Home Automation",
-      "stock": {
-        "available": 40,
-        "reserved": 5,
-        "location": "Warehouse X"
-      },
+      "stock": { "available": 40, "reserved": 5, "location": "Warehouse X" },
       "tags": ["lock", "smart", "home", "automation"],
       "rating": 4.6,
       "deleted": false
@@ -366,11 +270,7 @@
       "description": "4K security camera system with night vision",
       "price": 499.99,
       "category": "Home Automation",
-      "stock": {
-        "available": 30,
-        "reserved": 3,
-        "location": "Warehouse Y"
-      },
+      "stock": { "available": 30, "reserved": 3, "location": "Warehouse Y" },
       "tags": ["security", "camera", "home", "automation"],
       "rating": 4.8,
       "deleted": false
@@ -381,11 +281,7 @@
       "description": "Electric kettle with temperature control",
       "price": 59.99,
       "category": "Home Appliances",
-      "stock": {
-        "available": 100,
-        "reserved": 15,
-        "location": "Warehouse Z"
-      },
+      "stock": { "available": 100, "reserved": 15, "location": "Warehouse Z" },
       "tags": ["kettle", "electric", "home", "appliances"],
       "rating": 4.5,
       "deleted": false
@@ -396,11 +292,7 @@
       "description": "High-speed blender with multiple attachments",
       "price": 129.99,
       "category": "Home Appliances",
-      "stock": {
-        "available": 70,
-        "reserved": 10,
-        "location": "Warehouse AA"
-      },
+      "stock": { "available": 70, "reserved": 10, "location": "Warehouse AA" },
       "tags": ["blender", "kitchen", "home", "appliances"],
       "rating": 4.4,
       "deleted": false
@@ -411,11 +303,7 @@
       "description": "Rechargeable electric shaver with precision trimmer",
       "price": 79.99,
       "category": "Health & Personal Care",
-      "stock": {
-        "available": 120,
-        "reserved": 20,
-        "location": "Warehouse BB"
-      },
+      "stock": { "available": 120, "reserved": 20, "location": "Warehouse BB" },
       "tags": ["shaver", "electric", "health", "personal care"],
       "rating": 4.3,
       "deleted": false
@@ -426,11 +314,7 @@
       "description": "Professional-grade hair dryer with ionic technology",
       "price": 99.99,
       "category": "Health & Personal Care",
-      "stock": {
-        "available": 80,
-        "reserved": 10,
-        "location": "Warehouse CC"
-      },
+      "stock": { "available": 80, "reserved": 10, "location": "Warehouse CC" },
       "tags": ["hair dryer", "professional", "health", "personal care"],
       "rating": 4.6,
       "deleted": false
@@ -441,11 +325,7 @@
       "description": "Wet and dry electric razor with pivoting head",
       "price": 89.99,
       "category": "Health & Personal Care",
-      "stock": {
-        "available": 110,
-        "reserved": 15,
-        "location": "Warehouse DD"
-      },
+      "stock": { "available": 110, "reserved": 15, "location": "Warehouse DD" },
       "tags": ["razor", "electric", "health", "personal care"],
       "rating": 4.4,
       "deleted": false
@@ -456,11 +336,7 @@
       "description": "Infrared digital thermometer with instant read",
       "price": 49.99,
       "category": "Health & Personal Care",
-      "stock": {
-        "available": 150,
-        "reserved": 20,
-        "location": "Warehouse EE"
-      },
+      "stock": { "available": 150, "reserved": 20, "location": "Warehouse EE" },
       "tags": ["thermometer", "digital", "health", "personal care"],
       "rating": 4.5,
       "deleted": false
@@ -471,11 +347,7 @@
       "description": "Automatic blood pressure monitor with large display",
       "price": 69.99,
       "category": "Health & Personal Care",
-      "stock": {
-        "available": 100,
-        "reserved": 15,
-        "location": "Warehouse FF"
-      },
+      "stock": { "available": 100, "reserved": 15, "location": "Warehouse FF" },
       "tags": ["blood pressure", "monitor", "health", "personal care"],
       "rating": 4.7,
       "deleted": false
@@ -486,11 +358,7 @@
       "description": "Deep tissue massage gun with multiple attachments",
       "price": 199.99,
       "category": "Health & Personal Care",
-      "stock": {
-        "available": 50,
-        "reserved": 5,
-        "location": "Warehouse GG"
-      },
+      "stock": { "available": 50, "reserved": 5, "location": "Warehouse GG" },
       "tags": ["massage gun", "relaxation", "health", "personal care"],
       "rating": 4.6,
       "deleted": false
@@ -501,11 +369,7 @@
       "description": "Bluetooth smart scale with body composition analysis",
       "price": 59.99,
       "category": "Health & Personal Care",
-      "stock": {
-        "available": 120,
-        "reserved": 15,
-        "location": "Warehouse HH"
-      },
+      "stock": { "available": 120, "reserved": 15, "location": "Warehouse HH" },
       "tags": ["scale", "smart", "health", "personal care"],
       "rating": 4.5,
       "deleted": false
@@ -516,11 +380,7 @@
       "description": "Wearable sleep tracker with smart alarm",
       "price": 129.99,
       "category": "Health & Personal Care",
-      "stock": {
-        "available": 60,
-        "reserved": 8,
-        "location": "Warehouse II"
-      },
+      "stock": { "available": 60, "reserved": 8, "location": "Warehouse II" },
       "tags": ["sleep tracker", "wearable", "health", "personal care"],
       "rating": 4.4,
       "deleted": false
@@ -531,11 +391,7 @@
       "description": "Replacement heads for electric toothbrush, pack of 8",
       "price": 29.99,
       "category": "Health & Personal Care",
-      "stock": {
-        "available": 200,
-        "reserved": 30,
-        "location": "Warehouse JJ"
-      },
+      "stock": { "available": 200, "reserved": 30, "location": "Warehouse JJ" },
       "tags": ["toothbrush heads", "replacement", "health", "personal care"],
       "rating": 4.6,
       "deleted": false
@@ -546,11 +402,7 @@
       "description": "Daily multivitamins with essential nutrients, 60 tablets",
       "price": 19.99,
       "category": "Health & Personal Care",
-      "stock": {
-        "available": 300,
-        "reserved": 50,
-        "location": "Warehouse KK"
-      },
+      "stock": { "available": 300, "reserved": 50, "location": "Warehouse KK" },
       "tags": ["multivitamins", "supplements", "health", "personal care"],
       "rating": 4.7,
       "deleted": false
@@ -561,11 +413,7 @@
       "description": "Whey protein powder with 25g protein per serving",
       "price": 49.99,
       "category": "Health & Personal Care",
-      "stock": {
-        "available": 150,
-        "reserved": 25,
-        "location": "Warehouse LL"
-      },
+      "stock": { "available": 150, "reserved": 25, "location": "Warehouse LL" },
       "tags": ["protein powder", "supplements", "health", "personal care"],
       "rating": 4.8,
       "deleted": false
@@ -576,11 +424,7 @@
       "description": "Non-slip yoga mat with carrying strap",
       "price": 39.99,
       "category": "Health & Personal Care",
-      "stock": {
-        "available": 100,
-        "reserved": 20,
-        "location": "Warehouse MM"
-      },
+      "stock": { "available": 100, "reserved": 20, "location": "Warehouse MM" },
       "tags": ["yoga mat", "fitness", "health", "personal care"],
       "rating": 4.6,
       "deleted": false
@@ -591,11 +435,7 @@
       "description": "Set of 5 resistance bands with varying tension levels",
       "price": 29.99,
       "category": "Health & Personal Care",
-      "stock": {
-        "available": 150,
-        "reserved": 25,
-        "location": "Warehouse NN"
-      },
+      "stock": { "available": 150, "reserved": 25, "location": "Warehouse NN" },
       "tags": ["resistance bands", "fitness", "health", "personal care"],
       "rating": 4.5,
       "deleted": false
@@ -606,11 +446,7 @@
       "description": "Folding treadmill with LCD display and heart rate monitor",
       "price": 599.99,
       "category": "Health & Personal Care",
-      "stock": {
-        "available": 20,
-        "reserved": 5,
-        "location": "Warehouse OO"
-      },
+      "stock": { "available": 20, "reserved": 5, "location": "Warehouse OO" },
       "tags": ["treadmill", "fitness", "health", "personal care"],
       "rating": 4.7,
       "deleted": false
@@ -621,11 +457,7 @@
       "description": "Compact elliptical machine with resistance levels",
       "price": 499.99,
       "category": "Health & Personal Care",
-      "stock": {
-        "available": 25,
-        "reserved": 3,
-        "location": "Warehouse PP"
-      },
+      "stock": { "available": 25, "reserved": 3, "location": "Warehouse PP" },
       "tags": ["elliptical machine", "fitness", "health", "personal care"],
       "rating": 4.6,
       "deleted": false
@@ -636,11 +468,7 @@
       "description": "Set of 2 adjustable dumbbells with stand",
       "price": 199.99,
       "category": "Health & Personal Care",
-      "stock": {
-        "available": 50,
-        "reserved": 10,
-        "location": "Warehouse QQ"
-      },
+      "stock": { "available": 50, "reserved": 10, "location": "Warehouse QQ" },
       "tags": ["dumbbells", "fitness", "health", "personal care"],
       "rating": 4.5,
       "deleted": false
@@ -651,11 +479,7 @@
       "description": "Stationary bike with adjustable resistance and seat",
       "price": 349.99,
       "category": "Health & Personal Care",
-      "stock": {
-        "available": 30,
-        "reserved": 5,
-        "location": "Warehouse RR"
-      },
+      "stock": { "available": 30, "reserved": 5, "location": "Warehouse RR" },
       "tags": ["stationary bike", "fitness", "health", "personal care"],
       "rating": 4.6,
       "deleted": false
@@ -666,11 +490,7 @@
       "description": "Water resistance rowing machine with ergonomic seat",
       "price": 599.99,
       "category": "Health & Personal Care",
-      "stock": {
-        "available": 20,
-        "reserved": 2,
-        "location": "Warehouse SS"
-      },
+      "stock": { "available": 20, "reserved": 2, "location": "Warehouse SS" },
       "tags": ["rowing machine", "fitness", "health", "personal care"],
       "rating": 4.7,
       "deleted": false
@@ -681,11 +501,7 @@
       "description": "Cast iron kettlebell with wide grip handle, 20 lbs",
       "price": 29.99,
       "category": "Health & Personal Care",
-      "stock": {
-        "available": 100,
-        "reserved": 15,
-        "location": "Warehouse TT"
-      },
+      "stock": { "available": 100, "reserved": 15, "location": "Warehouse TT" },
       "tags": ["kettlebell", "fitness", "health", "personal care"],
       "rating": 4.5,
       "deleted": false
@@ -696,11 +512,7 @@
       "description": "High-density foam roller for muscle recovery",
       "price": 29.99,
       "category": "Health & Personal Care",
-      "stock": {
-        "available": 120,
-        "reserved": 20,
-        "location": "Warehouse UU"
-      },
+      "stock": { "available": 120, "reserved": 20, "location": "Warehouse UU" },
       "tags": ["foam roller", "fitness", "health", "personal care"],
       "rating": 4.4,
       "deleted": false
@@ -711,11 +523,7 @@
       "description": "Adjustable speed jump rope with comfortable handles",
       "price": 19.99,
       "category": "Health & Personal Care",
-      "stock": {
-        "available": 200,
-        "reserved": 30,
-        "location": "Warehouse VV"
-      },
+      "stock": { "available": 200, "reserved": 30, "location": "Warehouse VV" },
       "tags": ["jump rope", "fitness", "health", "personal care"],
       "rating": 4.3,
       "deleted": false
@@ -726,11 +534,7 @@
       "description": "Heavy-duty punching bag with hanging straps, 80 lbs",
       "price": 99.99,
       "category": "Sports & Outdoors",
-      "stock": {
-        "available": 50,
-        "reserved": 5,
-        "location": "Warehouse WW"
-      },
+      "stock": { "available": 50, "reserved": 5, "location": "Warehouse WW" },
       "tags": ["punching bag", "sports", "fitness", "outdoors"],
       "rating": 4.6,
       "deleted": false
@@ -741,11 +545,7 @@
       "description": "Official size 5 soccer ball with durable construction",
       "price": 29.99,
       "category": "Sports & Outdoors",
-      "stock": {
-        "available": 150,
-        "reserved": 25,
-        "location": "Warehouse XX"
-      },
+      "stock": { "available": 150, "reserved": 25, "location": "Warehouse XX" },
       "tags": ["soccer ball", "sports", "fitness", "outdoors"],
       "rating": 4.5,
       "deleted": false
@@ -756,11 +556,7 @@
       "description": "Official size 7 basketball with grip control",
       "price": 34.99,
       "category": "Sports & Outdoors",
-      "stock": {
-        "available": 120,
-        "reserved": 20,
-        "location": "Warehouse YY"
-      },
+      "stock": { "available": 120, "reserved": 20, "location": "Warehouse YY" },
       "tags": ["basketball", "sports", "fitness", "outdoors"],
       "rating": 4.4,
       "deleted": false
@@ -771,11 +567,7 @@
       "description": "Lightweight tennis racket with shock absorption",
       "price": 79.99,
       "category": "Sports & Outdoors",
-      "stock": {
-        "available": 80,
-        "reserved": 10,
-        "location": "Warehouse ZZ"
-      },
+      "stock": { "available": 80, "reserved": 10, "location": "Warehouse ZZ" },
       "tags": ["tennis racket", "sports", "fitness", "outdoors"],
       "rating": 4.6,
       "deleted": false
@@ -786,11 +578,7 @@
       "description": "Set of 14 golf clubs with carrying bag",
       "price": 399.99,
       "category": "Sports & Outdoors",
-      "stock": {
-        "available": 30,
-        "reserved": 5,
-        "location": "Warehouse AAA"
-      },
+      "stock": { "available": 30, "reserved": 5, "location": "Warehouse AAA" },
       "tags": ["golf clubs", "sports", "fitness", "outdoors"],
       "rating": 4.7,
       "deleted": false
@@ -801,11 +589,7 @@
       "description": "4-person camping tent with waterproof cover",
       "price": 129.99,
       "category": "Sports & Outdoors",
-      "stock": {
-        "available": 60,
-        "reserved": 8,
-        "location": "Warehouse BBB"
-      },
+      "stock": { "available": 60, "reserved": 8, "location": "Warehouse BBB" },
       "tags": ["camping tent", "outdoors", "sports", "recreation"],
       "rating": 4.5,
       "deleted": false
@@ -831,11 +615,7 @@
       "description": "Water-resistant hiking backpack with multiple compartments",
       "price": 89.99,
       "category": "Sports & Outdoors",
-      "stock": {
-        "available": 80,
-        "reserved": 10,
-        "location": "Warehouse DDD"
-      },
+      "stock": { "available": 80, "reserved": 10, "location": "Warehouse DDD" },
       "tags": ["hiking backpack", "outdoors", "sports", "recreation"],
       "rating": 4.7,
       "deleted": false
@@ -861,11 +641,7 @@
       "description": "Inflatable kayak with paddles, 2-person capacity",
       "price": 299.99,
       "category": "Sports & Outdoors",
-      "stock": {
-        "available": 20,
-        "reserved": 3,
-        "location": "Warehouse FFF"
-      },
+      "stock": { "available": 20, "reserved": 3, "location": "Warehouse FFF" },
       "tags": ["kayak", "outdoors", "sports", "recreation"],
       "rating": 4.6,
       "deleted": false
@@ -876,11 +652,7 @@
       "description": "Telescopic fishing rod with reel and accessories",
       "price": 69.99,
       "category": "Sports & Outdoors",
-      "stock": {
-        "available": 80,
-        "reserved": 10,
-        "location": "Warehouse GGG"
-      },
+      "stock": { "available": 80, "reserved": 10, "location": "Warehouse GGG" },
       "tags": ["fishing rod", "outdoors", "sports", "recreation"],
       "rating": 4.5,
       "deleted": false
@@ -906,11 +678,7 @@
       "description": "All-mountain snowboard with bindings, 155cm",
       "price": 349.99,
       "category": "Sports & Outdoors",
-      "stock": {
-        "available": 30,
-        "reserved": 5,
-        "location": "Warehouse III"
-      },
+      "stock": { "available": 30, "reserved": 5, "location": "Warehouse III" },
       "tags": ["snowboard", "outdoors", "sports", "recreation"],
       "rating": 4.7,
       "deleted": false
@@ -951,11 +719,7 @@
       "description": "Pair of 16oz boxing gloves with wrist support",
       "price": 79.99,
       "category": "Sports & Outdoors",
-      "stock": {
-        "available": 80,
-        "reserved": 10,
-        "location": "Warehouse LLL"
-      },
+      "stock": { "available": 80, "reserved": 10, "location": "Warehouse LLL" },
       "tags": ["boxing gloves", "sports", "fitness", "outdoors"],
       "rating": 4.6,
       "deleted": false
@@ -1026,11 +790,7 @@
       "description": "Dynamic climbing rope with 10.5mm diameter, 60m",
       "price": 129.99,
       "category": "Sports & Outdoors",
-      "stock": {
-        "available": 50,
-        "reserved": 8,
-        "location": "Warehouse QQQ"
-      },
+      "stock": { "available": 50, "reserved": 8, "location": "Warehouse QQQ" },
       "tags": ["climbing rope", "outdoors", "sports", "recreation"],
       "rating": 4.7,
       "deleted": false
@@ -1041,11 +801,7 @@
       "description": "Waterproof hiking boots with rugged sole",
       "price": 99.99,
       "category": "Sports & Outdoors",
-      "stock": {
-        "available": 80,
-        "reserved": 12,
-        "location": "Warehouse RRR"
-      },
+      "stock": { "available": 80, "reserved": 12, "location": "Warehouse RRR" },
       "tags": ["hiking boots", "outdoors", "sports", "recreation"],
       "rating": 4.6,
       "deleted": false
@@ -1071,11 +827,7 @@
       "description": "21-speed mountain bike with front suspension",
       "price": 399.99,
       "category": "Sports & Outdoors",
-      "stock": {
-        "available": 30,
-        "reserved": 5,
-        "location": "Warehouse TTT"
-      },
+      "stock": { "available": 30, "reserved": 5, "location": "Warehouse TTT" },
       "tags": ["mountain bike", "outdoors", "sports", "recreation"],
       "rating": 4.7,
       "deleted": false
@@ -1086,11 +838,7 @@
       "description": "6'6\" shortboard surfboard with leash",
       "price": 299.99,
       "category": "Sports & Outdoors",
-      "stock": {
-        "available": 20,
-        "reserved": 3,
-        "location": "Warehouse UUU"
-      },
+      "stock": { "available": 20, "reserved": 3, "location": "Warehouse UUU" },
       "tags": ["surfboard", "outdoors", "sports", "recreation"],
       "rating": 4.6,
       "deleted": false
@@ -1101,11 +849,7 @@
       "description": "Complete skateboard with maple deck and alloy trucks",
       "price": 59.99,
       "category": "Sports & Outdoors",
-      "stock": {
-        "available": 80,
-        "reserved": 10,
-        "location": "Warehouse VVV"
-      },
+      "stock": { "available": 80, "reserved": 10, "location": "Warehouse VVV" },
       "tags": ["skateboard", "outdoors", "sports", "recreation"],
       "rating": 4.5,
       "deleted": false
@@ -1116,11 +860,7 @@
       "description": "Adjustable inline skates with ABEC-7 bearings",
       "price": 99.99,
       "category": "Sports & Outdoors",
-      "stock": {
-        "available": 60,
-        "reserved": 8,
-        "location": "Warehouse WWW"
-      },
+      "stock": { "available": 60, "reserved": 8, "location": "Warehouse WWW" },
       "tags": ["rollerblades", "outdoors", "sports", "recreation"],
       "rating": 4.4,
       "deleted": false
@@ -1131,11 +871,7 @@
       "description": "Foldable ping pong table with net and paddles",
       "price": 399.99,
       "category": "Sports & Outdoors",
-      "stock": {
-        "available": 25,
-        "reserved": 5,
-        "location": "Warehouse XXX"
-      },
+      "stock": { "available": 25, "reserved": 5, "location": "Warehouse XXX" },
       "tags": ["ping pong table", "outdoors", "sports", "recreation"],
       "rating": 4.6,
       "deleted": false
@@ -1146,11 +882,7 @@
       "description": "Outdoor trampoline with safety enclosure, 12ft",
       "price": 349.99,
       "category": "Sports & Outdoors",
-      "stock": {
-        "available": 30,
-        "reserved": 5,
-        "location": "Warehouse YYY"
-      },
+      "stock": { "available": 30, "reserved": 5, "location": "Warehouse YYY" },
       "tags": ["trampoline", "outdoors", "sports", "recreation"],
       "rating": 4.7,
       "deleted": false
@@ -1161,11 +893,7 @@
       "description": "Inflatable paddleboard with paddle and pump, 10ft",
       "price": 499.99,
       "category": "Sports & Outdoors",
-      "stock": {
-        "available": 20,
-        "reserved": 3,
-        "location": "Warehouse ZZZ"
-      },
+      "stock": { "available": 20, "reserved": 3, "location": "Warehouse ZZZ" },
       "tags": ["paddleboard", "outdoors", "sports", "recreation"],
       "rating": 4.6,
       "deleted": false
@@ -1176,11 +904,7 @@
       "description": "Performance rock climbing shoes with velcro straps",
       "price": 129.99,
       "category": "Sports & Outdoors",
-      "stock": {
-        "available": 50,
-        "reserved": 8,
-        "location": "Warehouse AAAA"
-      },
+      "stock": { "available": 50, "reserved": 8, "location": "Warehouse AAAA" },
       "tags": ["climbing shoes", "outdoors", "sports", "recreation"],
       "rating": 4.5,
       "deleted": false
@@ -1206,11 +930,7 @@
       "description": "Sit-on-top fishing kayak with rod holders, 10ft",
       "price": 599.99,
       "category": "Sports & Outdoors",
-      "stock": {
-        "available": 15,
-        "reserved": 2,
-        "location": "Warehouse CCCC"
-      },
+      "stock": { "available": 15, "reserved": 2, "location": "Warehouse CCCC" },
       "tags": ["fishing kayak", "outdoors", "sports", "recreation"],
       "rating": 4.7,
       "deleted": false
@@ -1221,11 +941,7 @@
       "description": "Comfortable ski boots with adjustable buckles",
       "price": 199.99,
       "category": "Sports & Outdoors",
-      "stock": {
-        "available": 40,
-        "reserved": 6,
-        "location": "Warehouse DDDD"
-      },
+      "stock": { "available": 40, "reserved": 6, "location": "Warehouse DDDD" },
       "tags": ["ski boots", "outdoors", "sports", "recreation"],
       "rating": 4.6,
       "deleted": false
@@ -1236,11 +952,7 @@
       "description": "Lightweight snowshoes with traction cleats, 25in",
       "price": 149.99,
       "category": "Sports & Outdoors",
-      "stock": {
-        "available": 60,
-        "reserved": 8,
-        "location": "Warehouse EEEE"
-      },
+      "stock": { "available": 60, "reserved": 8, "location": "Warehouse EEEE" },
       "tags": ["snowshoes", "outdoors", "sports", "recreation"],
       "rating": 4.7,
       "deleted": false
@@ -1326,11 +1038,7 @@
       "description": "Full-body surfing wetsuit with 3mm thickness",
       "price": 199.99,
       "category": "Sports & Outdoors",
-      "stock": {
-        "available": 40,
-        "reserved": 6,
-        "location": "Warehouse KKKK"
-      },
+      "stock": { "available": 40, "reserved": 6, "location": "Warehouse KKKK" },
       "tags": ["surfing wetsuit", "outdoors", "sports", "recreation"],
       "rating": 4.6,
       "deleted": false
@@ -1356,11 +1064,7 @@
       "description": "Complete mountain climbing gear set with helmet",
       "price": 499.99,
       "category": "Sports & Outdoors",
-      "stock": {
-        "available": 20,
-        "reserved": 3,
-        "location": "Warehouse MMMM"
-      },
+      "stock": { "available": 20, "reserved": 3, "location": "Warehouse MMMM" },
       "tags": ["mountain climbing", "outdoors", "sports", "recreation"],
       "rating": 4.8,
       "deleted": false
