@@ -32,7 +32,7 @@ export const getProduct: Controller = async (req, res) => {
       if (product) {
         res.send(product);
       } else {
-        res.status(404).json({ message: "id is not Exist" });
+        res.status(404).json({ message: "Id does not exist" });
         return;
       }
     }
@@ -78,7 +78,7 @@ export const setProduct: Controller = async (req, res) => {
     data.products.push(product);
 
     await reWriteFIle(JSON.stringify(data));
-    res.sendStatus(200).send(product);
+    res.status(201).send(product);
   } catch (error) {
     res.status(500).send("Server error");
     console.log("setProduct: ", error);
