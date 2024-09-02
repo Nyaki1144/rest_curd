@@ -4,7 +4,6 @@ import productsRout from "./routes/productsRout";
 
 const app = express();
 
-app.use(express.json());
 app.use("/products", productsRout);
 
 app.listen(process.env.PORT, () => {

@@ -1,4 +1,4 @@
-import { Router } from "express";
+import express, { Router } from "express";
 import {
   getProducts,
   getProduct,
@@ -9,6 +9,7 @@ import {
 } from "../controllers/productsController";
 
 const productsRout = Router();
+productsRout.use(express.json());
 
 productsRout.get("/all", getProducts);
 productsRout.get("/:id", getProduct);
